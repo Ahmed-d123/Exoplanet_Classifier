@@ -1,7 +1,7 @@
 numpy
 scipy
 pandas
-scikit-lea
+scikit-learn
 xgboost
 lightgbm
 catboost
@@ -10,6 +10,7 @@ fastapi
 uvicorn
 setuptools
 wheel
+
 
 
 
